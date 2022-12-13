@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb#555555;
+    background-color: ivory;
+}
+li {
+    font-size: 15px;
+    font-style: italic; 
+    font-weight: normal; 
+}
+a {color: maroon;
+text-decoration: none;
+font-weight: normal;
+font-size: 15px;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+/*a:visited {
+    color:rgb(213, 0, 0)
+}*/
+
+.listheading {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+}
+.justify{text-align: justify;}
+
+.homebg {
+    background-color: ivory;
+    background-position-x: 10%;
+    background-position-y: 30%;
+    background-size: 100%;
+}
+.notbold {
+    font-style: normal;
+}
+
+.box1{
+    border: 1px solid aquamarine;
+}
+.box2{
+    padding: 5px;
+}
+.box3{
+    margin: 50px;
+}
+.tableau {
+    height: 500px;
+}
+
+/*This is how to make comments in CSS*/
+/* COMMAND+/ STILL WORKS HERE */
+
+
+
+
+
+
+/* Positioning */
